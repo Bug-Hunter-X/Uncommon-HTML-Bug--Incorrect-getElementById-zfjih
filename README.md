@@ -1,0 +1,1 @@
+This repository contains an example of an uncommon error in HTML: a misspelling of the getElementById method. The bug.html file contains the erroneous code, which causes a runtime error. The bugSolution.html file shows the corrected code.
